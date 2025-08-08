@@ -252,7 +252,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Huertos Rurales</h5>
                         <p class="card-text">Aprende a cultivar tus propios alimentos en casa. Cultívalos a tu manera y descubre los cuidados necesarios para tus plantas.</p>
-                        <a href="huertos-rurales.html" class="btn btn-outline-success">Más información</a>
+                        <a href="https://steven17leiva15.github.io/huertos-rurales/" class="btn btn-outline-success">Más información</a>
                     </div>
                 </div>
             </div>
