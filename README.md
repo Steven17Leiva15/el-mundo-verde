@@ -271,7 +271,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Educación Ambiental</h5>
                         <p class="card-text">Programas educativos para escuelas y empresas sobre sostenibilidad y conservación del medio ambiente.</p>
-                        <a href="educación-ambiental.html" class="btn btn-outline-success">Más información</a>
+                        <a href="https://steven17leiva15.github.io/educaci-n_ambiental/" class="btn btn-outline-success">Más información</a>
                     </div>
                 </div>
             </div>
